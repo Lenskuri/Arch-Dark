@@ -1,2 +1,4 @@
-# Arch Dark
-My Black Theme For Omarchy.
+# Installation
+´´´
+omarchy-theme-install https://github.com/lensku-dev/Arch-Dark.git
+´´´
