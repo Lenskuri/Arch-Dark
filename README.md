@@ -3,7 +3,7 @@
 
 # Installation
 ```bash
-omarchy-theme-set https://github.com/lensku-dev/Arch-Dark.git
+omarchy-theme-install https://github.com/lensku-dev/Arch-Dark.git
 ```
 
 # Installation for screensaver and fastfetch logo
