@@ -1,16 +1,12 @@
-# UI Colors (extended)
 accent = "#1793d1"
 cursor = "#1793d1"
 
-# Primary colors
 foreground = "#ffffff"
 background = "#000000"
 
-# Selection colors
 selection_foreground = "#000000"
 selection_background = "#1793d1"
 
-# Normal colors (ANSI 0-7)
 color0 = "#262626"
 color1 = "#e57474"
 color2 = "#1793d1"
@@ -20,7 +16,6 @@ color5 = "#ffffff"
 color6 = "#00aad4"
 color7 = "#ffffff"
 
-# Bright colors (ANSI 8-15)
 color8 = "#404040"
 color9 = "#f08484"
 color10 = "#5294e2"
