@@ -1,5 +1,5 @@
 # Arch Dark
-<img width="1922" height="1081" alt="preview" src="https://github.com/user-attachments/assets/30469e1f-c34c-4226-91ab-49fdf20fb9a9" />
+<img width="1922" height="1081" alt="preview" src="https://github.com/Lenskuri/Arch-Dark/blob/main/preview.png" />
 
 # Installation
 ```bash
